@@ -1,4 +1,4 @@
-# Stock-Price-Prediction-using-LSTM-Model
+# Stock-Price-Prediction-using-LSTM-Model 📈
 Here, we use the LSTM model to train and predict stock prices.
 
 Steps to Train an LSTM Model for Stock Price Prediction:
